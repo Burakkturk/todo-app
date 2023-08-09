@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import GetData from "./pages/GetData";
 
 function App() {
   return (
     <div className="App">
-     <h1>HELLO REACT</h1>
+      <GetData />
     </div>
   );
 }
